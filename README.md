@@ -9,8 +9,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Repository on GitHub](https://github.com/Roneeey/NFTProductPreviewCard)
-- Live Site URL: [Live site on GitHub Pages](https://roneeey.github.io/NFTProductPreviewCard/)
+- Solution URL: [Repository on GitHub](https://github.com/Roneeey/NFTCardPre)
+- Live Site URL: [Live site on GitHub Pages](https://roneeey.github.io/NFTCardPre/)
 
 ### Built with
 
